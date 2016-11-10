@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "370 Final Project", "370 Final Project\370 Final Project.csproj", "{894544A4-9BB7-4D33-A3EB-C110B30B124C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlTester", "..\sqlTester\sqlTester\sqlTester.csproj", "{76BE1DF6-A027-4918-BA09-14B2F3CBE57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894544A4-9BB7-4D33-A3EB-C110B30B124C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894544A4-9BB7-4D33-A3EB-C110B30B124C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894544A4-9BB7-4D33-A3EB-C110B30B124C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894544A4-9BB7-4D33-A3EB-C110B30B124C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BE1DF6-A027-4918-BA09-14B2F3CBE57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BE1DF6-A027-4918-BA09-14B2F3CBE57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BE1DF6-A027-4918-BA09-14B2F3CBE57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BE1DF6-A027-4918-BA09-14B2F3CBE57D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

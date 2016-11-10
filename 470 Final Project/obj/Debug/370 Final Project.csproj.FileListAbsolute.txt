@@ -1,0 +1,24 @@
+D:\ajaira C#\370 Final Project\370 Final Project\bin\Debug\370 Final Project.exe.config
+D:\ajaira C#\370 Final Project\370 Final Project\bin\Debug\370 Final Project.exe
+D:\ajaira C#\370 Final Project\370 Final Project\bin\Debug\370 Final Project.pdb
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\370 Final Project.csprojResolveAssemblyReference.cache
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.Form1.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.Properties.Resources.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\370 Final Project.csproj.GenerateResource.Cache
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\370 Final Project.exe
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\370 Final Project.pdb
+D:\ajaira C#\370 Final Project\370 Final Project\bin\Debug\MySql.Data.dll
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.SHOW_PRODUCT_LIST_FORM.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.HOME.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.OTHERS.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.SELL.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.SEARCH.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.ADMIN.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.MANAGER_LOGIN.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.OTHERS_LOGIN.resources
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.ADMIN_VIEWcs.resources
+D:\ajaira C#\370 Final Project\370 Final Project\bin\Debug\370 Final Project.exe.manifest
+D:\ajaira C#\370 Final Project\370 Final Project\bin\Debug\370 Final Project.application
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\370 Final Project.exe.manifest
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\370 Final Project.application
+D:\ajaira C#\370 Final Project\370 Final Project\obj\Debug\_370_Final_Project.ADMIN_REGISTER.resources
